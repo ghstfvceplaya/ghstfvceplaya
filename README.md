@@ -1,16 +1,17 @@
-## Hi there 👋
+# whoami
 
-<!--
-**ghstfvceplaya/ghstfvceplaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  :man_technologist: Introducing myself
+-  junior pentester
+-  ctf player
 
-Here are some ideas to get you started:
+## :globe_with_meridians: Profile
+-  [TryHackMe](https://tryhackme.com/r/p/kowmap)
+-  [Codeby](https://codeby.games/profile)
+-  [Standoff365](https://standoff365.com/profile/kowmap/)
+-  [rootme](https://www.root-me.org/kowmap?lang=ru#a5f533a97f7403843b78b7b353aa7dd8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :e-mail: Contact
+-  [Tel3gram](https://t.me/bulletindatemple)
+-  deepinsleepin@gmail.com
+
+
